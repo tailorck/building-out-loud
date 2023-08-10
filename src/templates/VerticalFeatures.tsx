@@ -22,7 +22,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Branding"
-      description="We will provide you with shorts and clips from the podcast that you can use in your own branding."
+      description="Get shorts and clips from the podcast that you can use in your own branding."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
