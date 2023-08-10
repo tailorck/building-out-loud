@@ -7,10 +7,10 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Start your Free Trial."
+      title="The best stories come from the trenches."
+      subtitle="Share your story."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://airtable.com/app14vPeawRU1W70t/shraBhkD4MRH5dxet">
           <Button>Get Started</Button>
         </Link>
       }
