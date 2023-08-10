@@ -10,7 +10,7 @@ import { Logo } from './Logo';
 const Hero = () => (
   <Background color="bg-gray-200">
     <Section id="hero" yPadding="py-6">
-      <NavbarCenter logo={<Logo xl />}/>
+      <NavbarCenter logo={<Logo xl />} />
     </Section>
 
     <Section yPadding="pt-20 pb-32">
