@@ -2,7 +2,6 @@ import Link from 'next/link';
 
 import LinkedIn from '@/icons/LinkedIn';
 import Twitter from '@/icons/Twitter';
-import YouTube from '@/icons/Youtube';
 
 import { Background } from '../background/Background';
 import { CenteredFooter } from '../footer/CenteredFooter';
@@ -32,10 +31,6 @@ const Footer = () => (
 
             <Link href="/">
               <Twitter />
-            </Link>
-
-            <Link href="/">
-              <YouTube />
             </Link>
 
             <Link href="/">
