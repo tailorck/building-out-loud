@@ -5,7 +5,7 @@ const VerticalFeatures = () => (
   <Section
     id="vertical-features"
     title="We want to hear your story"
-    description="Building out Loud features Builders and Founders who are currently in the trenches or have won a few battles."
+    description="Building out Loud features Builders and Founders who are currently in the trenches or have a few wins under their belt. We discuss their journeys, battles fought, and learnings along the way."
   >
     <VerticalFeatureRow
       title="Accountability"
@@ -15,14 +15,14 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Mentorship"
-      description="Gain access to a community of Founders who have built similar ventures in the past."
+      description="Become a part of a community of Founders who have built similar ventures in the past."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
     />
     <VerticalFeatureRow
       title="Branding"
-      description="Get shorts and clips from the podcast that you can use in your own branding."
+      description="Get shorts and clips from the podcast that you can use to help others discover you & your work."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />

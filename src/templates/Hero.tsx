@@ -17,11 +17,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'A podcast for\n'}
-            <span className="text-primary-500">Founders by Founders</span>
+            {'A Podcast for\n'}
+            <span className="text-primary-500">Builders</span>
           </>
         }
-        description="Share your story. Join a community of Builders. Help others get started."
+        description="Share your Founder story. Join a community of Builders. Help others get started."
         button={
           <Link href="https://airtable.com/app14vPeawRU1W70t/shraBhkD4MRH5dxet">
             <Button xl>Apply for Interview</Button>
