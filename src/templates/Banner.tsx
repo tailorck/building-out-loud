@@ -11,7 +11,7 @@ const Banner = () => (
       subtitle="Share your story."
       button={
         <Link href="https://airtable.com/app14vPeawRU1W70t/shraBhkD4MRH5dxet">
-          <Button>Get Started</Button>
+          <Button>Apply Now 🎙️</Button>
         </Link>
       }
     />

@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarCenter logo={<Logo xl />} />
     </Section>
 
-    <Section yPadding="pt-20 pb-32">
+    <Section yPadding="pt-10 pb-20">
       <HeroOneButton
         title={
           <>
@@ -21,10 +21,14 @@ const Hero = () => (
             <span className="text-primary-500">Builders</span>
           </>
         }
-        description="Share your Founder story. Join a community of Builders. Help others get started."
+        description={[
+          'Share your Founder story',
+          'Join a community of Builders',
+          'Help others get started.',
+        ]}
         button={
           <Link href="https://airtable.com/app14vPeawRU1W70t/shraBhkD4MRH5dxet">
-            <Button xl>Apply for Interview</Button>
+            <Button xl>Apply Now 🎙️</Button>
           </Link>
         }
       />
